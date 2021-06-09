@@ -1,0 +1,12 @@
+=================== CUSTOMERS ======================== 
+ID    Name       Surname      Date of Birth   Age            
+====================================================== 
+C100  Mike       Rohsopht     
+C130  Stu        Padassol     
+C150  Luke       Atmyass      
+C250  Eileen     Sideways     
+C260  Ima        Stewpidas    
+C300  Ivana.B    Withew       
+
+Number of customers allowed to rent:       4 
+Number of customers not allowed to rent:   2 
